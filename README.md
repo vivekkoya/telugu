@@ -1,18 +1,24 @@
 # Telugu 
 ## Alphabet అక్షరలు
 ---
-|  Letter | Pronunciation  |   |
-|---|---|---|
-| అ |   |   |
-| ఆ |   |   |
-| ఇ |   |   |
-| ఆ |   |   |
-| ఆ |   |   |
-| ఆ |   |   |
-| ఆ |   |   |
-| ఆ |   |   |
-| ఆ |   |   |
-| ఆ |   |   |
+### Vowels అచ్చులు
+|  Letter | Pronunciation  |   
+|---|---|
+| అ | a  |
+| ఆ | aa  |   
+| ఇ |  i |   
+| ఈ | ii|   
+| ఉ | u  |   
+| ఊ | uu (vocalic) |   
+| ఋ |  r (vocalic) |   
+| ఌ |  l |   
+| ఎ |  e |   
+| ఏ | ee |   
+| ఐ | ai  |   
+| ఒ |  o|   
+| ఓ |   oo|   
+| ఔ |   au|   
+
 
 
 
